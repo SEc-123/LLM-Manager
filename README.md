@@ -16,8 +16,11 @@ By configuring different models, prompts, temperature settings, and max token li
 
 🔹 2. Create Automated AI Workflows
 Beyond standalone applications, Local LLM Manager enables you to combine multiple AI applications into automated workflows. This feature allows you to:
+
 ✅ Chain AI tools together – Pass output from one AI application to another, creating a multi-step processing pipeline.
+
 ✅ Customize execution logic – Define how different applications interact to handle complex AI-driven tasks.
+
 ✅ Schedule tasks – Automate execution at specific times, ensuring continuous workflow processing without manual intervention.
 
 For example, you can create a workflow where:
