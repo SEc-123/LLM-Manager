@@ -38,13 +38,19 @@ Document Processing – Extract and summarize information from large repositorie
 By defining specific file types, exclusion patterns, and size limits, you can fine-tune how Local LLM Manager interacts with your local file system, making it a powerful tool for AI-assisted file management and auditing.
 
 🔹 4. Example: AI-Powered Code Auditing
+
 One powerful use case of Local LLM Manager is automated code auditing. By leveraging local LLMs, you can create a custom AI application that:
 
 1️⃣ Scans a project's file structure – Identifies relevant code files and dependencies.
+
 2️⃣ Analyzes project modules and functionality – Understands the architecture and relationships between components.
+
 3️⃣ Performs an AI-driven security audit – Detects potential vulnerabilities, such as SQL injection, XSS, hardcoded secrets, and insecure API calls.
+
 4️⃣ Generates structured analysis results – Summarizes findings and provides recommended fixes.
+
 5️⃣ Outputs a Markdown report – Creates a well-structured security audit report that can be reviewed and shared easily.
+
 ![image](https://github.com/user-attachments/assets/52ad5c42-c5d3-4cdc-bfde-c7e8f115f87d)
 ![image](https://github.com/user-attachments/assets/98b2d249-6e27-46c8-92f3-f26b8458bd59)
 ![image](https://github.com/user-attachments/assets/8aa17e86-8463-4489-86ce-996248057546)
