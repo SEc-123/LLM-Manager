@@ -2,7 +2,7 @@
 
 A powerful and flexible application for managing and orchestrating Large Language Models (LLMs) through customizable workflows and applications.
 
-online demo without Aimodel：
+online demo without Ai_model：
 
 https://llmmanager.netlify.app/
 ## Features
